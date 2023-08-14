@@ -1,0 +1,10 @@
+<Bug_report>
+
+  <ID> 1111 <ID/>
+  <Summary> item is not added to cart </Summary>
+  <Environmen> Windows 10, Chrome 115.0.5790.171 </Environmen>
+  <Steps to reproduce> 1.click the go to the main page 2.click the 'add to cart' button on any product </Steps to reproduce>
+  <Expected result> The item will be added to your cart </Expected result>
+  <Actuall result> No products in the cart </Actuall result>
+
+</Bug_report>
